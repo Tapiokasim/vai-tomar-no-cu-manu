@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#container {
+    width: 100vw; /*view width*/
+    height: 100vh; /*view heihgt*/
+    background-image: url('../img/1000x1000j.jpg');
+    background-size: cover;
+}
